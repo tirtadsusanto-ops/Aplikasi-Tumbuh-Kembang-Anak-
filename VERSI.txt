@@ -1,0 +1,5 @@
+Revisi 19 November 2026
+Cakupan: 20 kelompok penilaian + 4 pencatatan penapisan + 1 perhitungan usia + 1 indeks.
+Format JSON tetap versi 1; isian lama dapat dipulihkan dan diperiksa ulang.
+Sumber klinis terbatas pada lima berkas unggahan.
+Laporan pemeriksaan: Dokumentasi/Hasil_Pemeriksaan_Revisi.html

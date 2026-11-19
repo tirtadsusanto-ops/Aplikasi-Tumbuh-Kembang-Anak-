@@ -1,0 +1,7 @@
+Ekstrak seluruh ZIP ke satu folder baru.
+Buka index.html.
+Pertahankan folder assets dan seluruh berkas JavaScript.
+Baca PETUNJUK.html untuk cara penggunaan dan batas sumber.
+Simpan JSON sebelum berganti pasien atau memindahkan perangkat.
+Hasil yang belum lengkap dapat diunduh sebagai catatan belum final.
+Hasil penetapan manual diberi label tersendiri.
